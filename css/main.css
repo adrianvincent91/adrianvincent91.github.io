@@ -17,7 +17,8 @@ p, h1, h2, h3 {
 
 ul, ol {
     line-height: 1.8;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    margin-top: 0;
 }
 
 li {
@@ -31,13 +32,13 @@ h1 {
     font-size: 18px;
     font-weight: 500;
     margin-bottom: 10px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 p {
     color: white;
     opacity: 0.7;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-size: 15px;
 }
 
