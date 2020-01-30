@@ -3,21 +3,22 @@
     color: black;
     padding: 0;
     margin: 0;
-    line-height: 1.8;
-    font-size: 15px;
+    line-height: 1.6;
+    font-size: 16px;
     font-weight: 400;
   }
 
 body {
     background-color: white;
-    font-family: 'IBM Plex Mono', monospace;
+    /* font-family: 'IBM Plex Mono', monospace; */
+    font-family: 'Roboto';
 }
 
 
 h1 {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 500;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 p {
